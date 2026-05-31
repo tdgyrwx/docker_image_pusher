@@ -14,3 +14,4 @@ kibana:7.6.2
 mongo:4.2.5
 electronuserland/builder:latest
 node:22-alpine
+alpine/openclaw:2026.5.28-beta.4-slim
