@@ -8,7 +8,7 @@ mysql:5.7
 redis:5
 nginx:1.10
 rabbitmq:3.7.15
-elasticsearch:7.6.2
+--platform=linux/arm64 elasticsearch:8.17.0
 logstash:7.6.2
 kibana:7.6.2
 mongo:4.2.5
